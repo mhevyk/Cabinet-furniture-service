@@ -1,6 +1,6 @@
 # Cabinet-furniture-service
 
-<p>It is my first course work, written in C++ language. It was simulated in MS ACCESS and MS EXCEL, than based on database model I started to realise it using C++</p>
+<p>It is my first course work, written in C++ language using OOP. It was simulated in MS ACCESS and MS EXCEL, than based on database model it was realised using C++</p>
 
 <p>This project helped me to learn more about OOP programming paradigm.</p>
 
