@@ -4,6 +4,12 @@
 
 <p>This project helped me to learn more about OOP programming paradigm.</p>
 
+<h3>Usage</h3>
+<ol>
+<li>Open binRelease</li>
+<li>Open file Cabinet furniture service.exe</li>
+ </ol>
+
 <h3>App has following functionallity:</h3>
 <ol>
     <li><b>Multilingual interface.</b> Currently, it is translated in english and ukrainian, but provided extension to make more languages</li>
