@@ -6,8 +6,8 @@
 
 <h3>Usage</h3>
 <ol>
-<li>Open binRelease</li>
-<li>Open file Cabinet furniture service.exe</li>
+<li>Open path bin/Release</li>
+<li>Open file "Cabinet furniture service.exe"</li>
  </ol>
 
 <h3>App has following functionallity:</h3>
